@@ -1,0 +1,94 @@
+{
+  "drinks": [
+    {
+      "id": "1",
+      "type": "still",
+      "rate": 4.5,
+      "title": "Ursu 9",
+      "company": "https://www.sanmy.es/archivos/ursu-p_021123191845.jpg",
+      "price": "14000",
+      "image": "https://www.ursu9.es/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fproduct_1l.84fcb958.jpg&w=1920&q=75"
+    },
+    {
+      "id": "2",
+      "type": "sparkling",
+      "rate": 3.5,
+      "title": "Red Bull",
+      "company": "https://www.logo.wine/a/logo/Red_Bull/Red_Bull-Logo.wine.svg",
+      "price": "25000",
+      "image": "https://i.pinimg.com/736x/87/7c/cf/877ccfa860a7e9a95d7bb4001cb9aa9e.jpg"
+    },
+    {
+      "id": "3",
+      "type": "sparkling",
+      "rate": 3.5,
+      "title": "Sprite",
+      "company": "https://www.logo.wine/a/logo/Coca-Cola/Coca-Cola-Logo.wine.svg",
+      "price": "10000",
+      "image": "https://i.pinimg.com/736x/28/da/f2/28daf2ab18dbe0309a708e3c3d4bd0d4.jpg"
+    },
+    {
+      "title": "Coca-Cola",
+      "type": "sparkling",
+      "rate": 4,
+      "company": "https://www.logo.wine/a/logo/Coca-Cola/Coca-Cola-Logo.wine.svg",
+      "price": "11000",
+      "image": "https://i.pinimg.com/736x/d9/90/b4/d990b4e3fafb7073f2ab7241e48aea0b.jpg",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "type": "sparkling",
+      "rate": 4,
+      "title": "Pepsi",
+      "company": "https://www.logo.wine/a/logo/Pepsi/Pepsi-Logo.wine.svg",
+      "price": "11000",
+      "image": "https://i.pinimg.com/736x/45/07/95/450795efcabc1df3280568b0a9d5fe69.jpg"
+    },
+    {
+      "title": "Fanta",
+      "type": "sparklingdsds",
+      "company": "https://www.logo.wine/a/logo/Coca-Cola/Coca-Cola-Logo.wine.svg",
+      "price": "10000",
+      "image": "https://i.pinimg.com/736x/27/c8/03/27c803145858b387fd9f2fb06626981c.jpg",
+      "id": "6",
+      "rate": 3.5
+    },
+    {
+      "id": "7",
+      "type": "sparkling",
+      "rate": 4,
+      "title": "Mountain Dew",
+      "company": "https://www.logo.wine/a/logo/Pepsi/Pepsi-Logo.wine.svg",
+      "price": "10000",
+      "image": "https://i.pinimg.com/736x/38/49/a4/3849a475a20444fb78f73662410cc495.jpg"
+    },
+    {
+      "id": "8",
+      "type": "still",
+      "rate": 5,
+      "title": "Limited Edition Water",
+      "company": "https://i.pinimg.com/736x/3f/bf/c7/3fbfc774a04b0325d7584d060a833b96.jpg",
+      "price": "450000",
+      "image": "https://i.pinimg.com/originals/cd/89/95/cd899592cac6d18e7688b773230769c6.gif"
+    },
+    {
+      "id": "9",
+      "type": "sparkling",
+      "rate": 3.5,
+      "title": "7Up",
+      "company": "https://logotyp.us/file/dr-pepper.svg",
+      "price": "10000",
+      "image": "https://i.pinimg.com/736x/68/6c/c3/686cc3e7decd1930559056fe728b3982.jpg"
+    },
+    {
+      "id": "10",
+      "type": "sparkling",
+      "rate": 3.5,
+      "title": "Dr Pepper",
+      "company": "https://logotyp.us/file/dr-pepper.svg",
+      "price": "10000",
+      "image": "https://i.pinimg.com/736x/7e/de/f0/7edef0d27c874f1435a9aae8170b5279.jpg"
+    }
+  ]
+}

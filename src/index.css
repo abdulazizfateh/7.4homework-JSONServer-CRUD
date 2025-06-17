@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: G4;
+    src: url(../src/assets/fonts/Gilroy-Regular.ttf);
+}
+
+@font-face {
+    font-family: G5;
+    src: url(../src/assets/fonts/Gilroy-Medium.ttf);
+}
+
+@font-face {
+    font-family: G7;
+    src: url(../src/assets/fonts/Gilroy-Bold.ttf);
+}
+
+@font-face {
+    font-family: G9;
+    src: url(../src/assets/fonts/Gilroy-Black.ttf);
+}
+
+@theme {
+    --font-G4: G4;
+    --font-G5: G5;
+    --font-G7: G7;
+    --font-G9: G9;
+
+    --color-primary: #28cad3;
+}
+
+* {
+    font-family: G4;
+}
+
+.container {
+    padding: 0 12px;
+}
